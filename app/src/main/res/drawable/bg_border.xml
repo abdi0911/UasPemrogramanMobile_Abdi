@@ -1,0 +1,10 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background color -->
+    <solid android:color="@color/white" />
+
+    <!-- Radius untuk sudut -->
+    <corners android:radius="3dp" />
+
+    <!-- Border -->
+    <stroke android:color="#50908E8E" android:width="1dp" /> <!-- Ganti warna dan lebar sesuai kebutuhan -->
+</shape>
